@@ -7,3 +7,4 @@ Bad Mobs / NPCs                   | Friendly Mobs / NPCs          | Natural Mobs
 [Pillagers (Mob)](#pillagers)     |                               |                              |
 [Vindicators (Mob)](#vindicators) |                               |                              |
 [Husks (Mob)](#husks)             |                               |                              |
+[pirates (Mob)](#pirates)         |                               |                              |
