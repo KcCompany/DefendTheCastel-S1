@@ -1,6 +1,6 @@
 # Season 1 Mobs !
 
-Bad Mobs / NPCs                     | Friendly Mobs / NPCs          | Natural Mobs / NPCs                 |
+Enemy Mobs / NPCs                     | Friendly Mobs / NPCs          | Natural Mobs / NPCs                 |
 ----------------------------------- | ----------------------------- | ----------------------------------- |
 [Goblin (Mob)](#goblin)             | [Semetery 𝐈𝐈 (GOD)](#semetery) | [Humans (Mob)](#humans)             |
 [Goblin King (NPC)](#goblinking)    | [The Builder (NPC)](#builder) | [Villagers (Mob)](#villagers)       |
@@ -11,3 +11,7 @@ Bad Mobs / NPCs                     | Friendly Mobs / NPCs          | Natural Mo
 [God Of Goblin (NPCs)](#godofgoblin)|                               |                                     |
 [Goblin Knight (Mob)](#goblinknight)|                               |                                     |
                                     |                               |                                     |
+
+
+# Enemies
+## Goblin
