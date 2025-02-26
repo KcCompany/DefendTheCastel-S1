@@ -6,4 +6,4 @@ Bad Mobs / NPCs                   | Friendly Mobs / NPCs          | Natural Mobs
 [Goblin King (NPC)](#goblinking)  | [The Builder (NPC)](#builder) |                      |
 [Pillagers (Mob)](#pillagers)     |                               |                      |
 [Vindicators (Mob)](#vindicators) |                               |                      |
-?                                 | ?                             |                      |
+[Humans (Mob)](#humans)           | ?                             |                      |
