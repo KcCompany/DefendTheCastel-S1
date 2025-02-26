@@ -9,5 +9,5 @@ Bad Mobs / NPCs                     | Friendly Mobs / NPCs          | Natural Mo
 [Husks (Mob)](#husks)               |                               |                                     |
 [pirates (Mob)](#pirates)           |                               |                                     |
 [God Of Goblin (NPCs)](#godofgoblin)|                               |                                     |
-                                    |                               |                                     |
+[Goblin Knight (Mob)](#goblinknight)|                               |                                     |
                                     |                               |                                     |
