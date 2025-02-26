@@ -7,13 +7,45 @@ Goblin King (NPC)      | The Builder (NPC)    |                      |
 Pillagers (Mob)        |                      |                      |
 Vindicators (Mob)      |                      |                      |
 
+d
+
+d
+
+d
 
 
+d
 
-
-
-
-
-
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
+d
 
 ## Goblin
