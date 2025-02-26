@@ -2,7 +2,7 @@
 
 Bad Mobs / NPCs                   | Friendly Mobs / NPCs          | Natural Mobs / NPCs          |
 --------------------------------- | ----------------------------- | ---------------------------- |
-[Goblin (Mob)](#goblin)           | [Semetry 𝐈𝐈 (NPC)](#semetry)   | [Humans (Mob)](#humans)      |
+[Goblin (Mob)](#goblin)           | [Semetery 𝐈𝐈 (NPC)](#semetery) | [Humans (Mob)](#humans)      |
 [Goblin King (NPC)](#goblinking)  | [The Builder (NPC)](#builder) | [Villagers (Mob)](#villagers)|
 [Pillagers (Mob)](#pillagers)     |                               |                              |
 [Vindicators (Mob)](#vindicators) |                               |                              |
